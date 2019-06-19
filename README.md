@@ -1,5 +1,5 @@
-# ReactSystem
-React-反欺诈管理系统
+# Vue-element ui
+Vue-反欺诈管理系统
 
 如何从gitLab上赋值项目代码到gitHub上：
 1.从gitLab上克隆代码到本地，再赋值项目到自己新建的文件夹中
